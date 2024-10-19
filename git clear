@@ -1,0 +1,88 @@
+[1mdiff --git a/book_car.html b/book_car.html[m
+[1mindex a4d09e9..ac263a0 100644[m
+[1m--- a/book_car.html[m
+[1m+++ b/book_car.html[m
+[36m@@ -12,82 +12,7 @@[m
+ <script src="https://cdn.jsdelivr.net/npm/flatpickr"></script>[m
+ [m
+     <style>[m
+[31m-       * {[m
+[31m-  margin: 0;[m
+[31m-  padding: 0;[m
+[31m-  box-sizing: border-box;[m
+[31m-  font-family: 'Arial', sans-serif;[m
+[31m-}[m
+[31m-[m
+[31m-body {[m
+[31m-  background-color: #f5f5f5;[m
+[31m-  display: flex;[m
+[31m-  justify-content: center;[m
+[31m-  align-items: center;[m
+[31m-  height: 100vh;[m
+[31m-}[m
+[31m-[m
+[31m-.login-container {[m
+[31m-  background-color: #fff;[m
+[31m-  padding: 40px;[m
+[31m-  border-radius: 8px;[m
+[31m-  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);[m
+[31m-  max-width: 400px;[m
+[31m-  width: 100%;[m
+[31m-}[m
+[31m-[m
+[31m-.login-form h2 {[m
+[31m-  text-align: center;[m
+[31m-  margin-bottom: 20px;[m
+[31m-  color: #333;[m
+[31m-}[m
+[31m-[m
+[31m-.input-group {[m
+[31m-  margin-bottom: 15px;[m
+[31m-}[m
+[31m-[m
+[31m-.input-group label {[m
+[31m-  display: block;[m
+[31m-  margin-bottom: 5px;[m
+[31m-  color: #555;[m
+[31m-}[m
+[31m-[m
+[31m-.input-group input {[m
+[31m-  width: 100%;[m
+[31m-  padding: 10px;[m
+[31m-  border: 1px solid #ccc;[m
+[31m-  border-radius: 4px;[m
+[31m-  font-size: 16px;[m
+[31m-}[m
+[31m-[m
+[31m-.input-group input:focus {[m
+[31m-  border-color: #007bff;[m
+[31m-  outline: none;[m
+[31m-}[m
+[31m-[m
+[31m-.login-btn {[m
+[31m-  width: 100%;[m
+[31m-  padding: 10px;[m
+[31m-  background-color: #007bff;[m
+[31m-  color: white;[m
+[31m-  border: none;[m
+[31m-  border-radius: 4px;[m
+[31m-  cursor: pointer;[m
+[31m-  font-size: 16px;[m
+[31m-  margin-top: 10px;[m
+[31m-}[m
+[31m-[m
+[31m-.login-btn:hover {[m
+[31m-  background-color: #0056b3;[m
+[31m-}[m
+[31m-[m
+[31m-@media screen and (max-width: 768px) {[m
+[31m-  .login-container {[m
+[31m-    padding: 20px;[m
+[31m-  }[m
+[31m-}[m
+[31m-[m
+[31m-[m
+[32m+[m[32m        /* Your CSS styles here */[m
+     </style>[m
+ </head>[m
+ <body>[m
